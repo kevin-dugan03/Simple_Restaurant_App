@@ -1,0 +1,140 @@
+#title
+{
+    text-align: center;
+}
+
+.page
+{
+    background-color: #C21212;
+    height: 100%;
+    min-height: 800px;
+}
+
+.main
+{
+    width: 70%;
+    background-color: cornsilk;
+    border: solid #4F4747;
+    text-align: center;
+    margin: auto;
+}
+
+#content
+{
+    background-color: white;
+    min-height: 500px;
+    height: 100%;
+    width: 70%;
+    margin: auto;
+    border: solid black;
+}
+
+td, tr
+{
+	padding: 5px;
+}
+
+.placement
+{
+	margin: auto;
+}
+
+#menuTable, #addCustomerResult, #pizzaMenu, #customerData, #pizza_table, #data, #findCustomer, #nav
+{
+    margin: auto;
+}
+
+.menuRow, .menuData
+{
+    padding: 10px;
+}
+
+.menuButton
+{
+    font-size: large;
+    width: 200px;
+    height: 50px;
+    font-family: Arial,Helvetica,sans-serif;
+}
+
+#choice
+{
+    width: 70%;
+    height: 525px;
+    margin: auto;
+    background-color: white;
+    border: solid #4F4747;
+    overflow: auto;
+}
+
+.addCustInfo, .findCustomerInfo
+{
+    font-size: small;
+    width: 150px;
+    height: 30px;
+}
+
+.orderButton
+{
+    font-size: small;
+    width: 150px;
+    height: 35px;
+}
+
+#result
+{
+	float: left;
+	font-size: large;
+}
+
+#findCustomer
+{
+	border-spacing: 10px;
+}
+
+#viewAllCustomers
+{
+	border: 2px solid black;
+}
+
+#allOrdersCustomerInfo, #customerInformation
+{
+	float: left;
+	margin-left: 10%;
+	font-size: medium;	
+}
+
+#allOrdersPizzaInfo, #pizzaInformation
+{
+	float: left;
+	margin-left: 15%;
+	font-size: medium;
+	position: relative;
+}
+
+.dashed
+{
+	border: 3px dotted;
+}
+
+#outerTable, #checkout
+{
+	margin-left: auto;	
+	margin-right: auto;
+}
+
+ul
+{
+	list-style-type: none;	
+}
+
+ul li
+{
+	display: inline;
+	padding-right: 20px;
+}
+
+.alignment
+{
+	text-align: left;	
+}
